@@ -13,8 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0509-fibonacci-number) |
+| [0024-swap-nodes-in-pairs](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0024-swap-nodes-in-pairs) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
