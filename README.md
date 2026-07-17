@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0509-fibonacci-number) |
 | [0326-power-of-three](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0326-power-of-three) |
+| [0231-power-of-two](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0326-power-of-three) |
+| [0231-power-of-two](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0916-word-subsets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0916-word-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
