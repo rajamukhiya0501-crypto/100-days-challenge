@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0326-power-of-three) |
 | [0231-power-of-two](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0342-power-of-four) |
+| [0009-palindrome-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0009-palindrome-number) |
 ## Dynamic Programming
 |  |
 | ------- |
