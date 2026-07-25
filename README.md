@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0342-power-of-four) |
 | [0009-palindrome-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0916-word-subsets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0916-word-subsets) |
+| [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0191-number-of-1-bits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
