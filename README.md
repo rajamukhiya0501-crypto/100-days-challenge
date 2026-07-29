@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0342-power-of-four) |
 | [0009-palindrome-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
