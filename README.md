@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0916-word-subsets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0916-word-subsets) |
 | [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0367-valid-perfect-square) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
