@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0283-move-zeroes) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0283-move-zeroes) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
