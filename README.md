@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3833-count-dominant-indices](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/3833-count-dominant-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
+| [3833-count-dominant-indices](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/3833-count-dominant-indices) |
 ## Number Theory
 |  |
 | ------- |
