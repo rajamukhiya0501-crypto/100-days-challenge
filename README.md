@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3833-count-dominant-indices](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/3833-count-dominant-indices) |
+| [0035-search-insert-position](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
+| [0035-search-insert-position](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
