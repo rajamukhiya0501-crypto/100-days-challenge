@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0367-valid-perfect-square) |
+| [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3833-count-dominant-indices](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/3833-count-dominant-indices) |
 | [0035-search-insert-position](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0001-two-sum](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0342-power-of-four) |
 | [0191-number-of-1-bits](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0075-sort-colors](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
