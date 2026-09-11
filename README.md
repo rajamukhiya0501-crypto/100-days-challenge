@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3833-count-dominant-indices](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/3833-count-dominant-indices) |
 | [0035-search-insert-position](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
+| [0162-find-peak-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
+| [0162-find-peak-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
