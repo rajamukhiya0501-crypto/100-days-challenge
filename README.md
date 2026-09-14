@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0509-fibonacci-number) |
+| [0118-pascals-triangle](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0118-pascals-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
 | [0162-find-peak-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0118-pascals-triangle](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
