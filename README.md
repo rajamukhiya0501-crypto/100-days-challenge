@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [0916-word-subsets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0916-word-subsets) |
 | [0058-length-of-last-word](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0058-length-of-last-word) |
+| [0014-longest-common-prefix](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0014-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0118-pascals-triangle](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0118-pascals-triangle) |
+| [0014-longest-common-prefix](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0852-peak-index-in-a-mountain-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
