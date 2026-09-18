@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0326-power-of-three) |
 | [0231-power-of-two](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0342-power-of-four) |
+| [0021-merge-two-sorted-lists](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0021-merge-two-sorted-lists) |
 ## Memoization
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0206-reverse-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
