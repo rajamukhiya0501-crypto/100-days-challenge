@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0916-word-subsets) |
 | [0058-length-of-last-word](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0058-length-of-last-word) |
 | [0014-longest-common-prefix](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [0020-valid-parentheses](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
