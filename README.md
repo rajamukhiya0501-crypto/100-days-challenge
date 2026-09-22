@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0058-length-of-last-word) |
 | [0014-longest-common-prefix](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
