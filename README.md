@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0118-pascals-triangle](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0118-pascals-triangle) |
 | [0014-longest-common-prefix](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0014-longest-common-prefix) |
+| [0904-fruit-into-baskets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0904-fruit-into-baskets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0904-fruit-into-baskets) |
 ## Tree
 |  |
 | ------- |
