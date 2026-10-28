@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0367-valid-perfect-square) |
 | [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0118-pascals-triangle) |
 | [0014-longest-common-prefix](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0014-longest-common-prefix) |
 | [0904-fruit-into-baskets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0904-fruit-into-baskets) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
