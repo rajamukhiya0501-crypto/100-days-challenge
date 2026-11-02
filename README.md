@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0014-longest-common-prefix) |
 | [0904-fruit-into-baskets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0904-fruit-into-baskets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [0217-contains-duplicate](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0904-fruit-into-baskets) |
+| [0217-contains-duplicate](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
+| [0217-contains-duplicate](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
