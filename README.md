@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0904-fruit-into-baskets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [0217-contains-duplicate](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0111-minimum-depth-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
