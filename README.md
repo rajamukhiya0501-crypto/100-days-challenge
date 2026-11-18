@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [0217-contains-duplicate](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1480-running-sum-of-1d-array) |
+| [0088-merge-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0075-sort-colors](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [0088-merge-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0268-missing-number) |
 | [0217-contains-duplicate](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0217-contains-duplicate) |
+| [0088-merge-sorted-array](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
