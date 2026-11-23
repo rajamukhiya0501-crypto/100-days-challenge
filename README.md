@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rajamukhiya0501-crypto/100-days-challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Stack
 |  |
 | ------- |
